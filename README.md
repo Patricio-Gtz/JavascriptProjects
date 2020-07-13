@@ -6,3 +6,4 @@ Projects:
 1. **Form Validator**: Simple form validator using JS.
 2. **Movie Seat Booking**: App for booking seats in a movie theater.
 3. **Custom Video Player**: Build your own custom video player using JS.
+4. **Exchange Rate Calculator**: Simple exchange rate calculator for currencies.
