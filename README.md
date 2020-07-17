@@ -10,3 +10,4 @@ Projects:
 5. **DOM Array Methods**: Explore different array methods (forEach, map, sort, filter, reduce) and use them in the DOM.
 6. **Menu Slider & Modal**: Create a simple landing page with hamburger menu and modal.
 7. **Hangman Game**: Simple hangman game, created with SVG.
+8. **Meal Finder**: Simple meal finder, using themealdb.com API for getting the meals.
