@@ -13,3 +13,4 @@ Projects:
 8. **Meal Finder**: Simple meal finder using themealdb.com API for getting the meals.
 9. **Expense Tracker**: Simple expense tracker that monitors your incomes and outcomes.
 10. **Music Player**: Simple music player using the web audio API.
+11. **Infinte Scroll**: Blog with infinite scroll using the fetch API.
