@@ -16,3 +16,4 @@ Projects:
 11. **Infinte Scroll**: Blog with infinite scroll using the fetch API.
 12. **Typing Game**: Typing game with different difficulties.
 13. **Speech Text Reader**: Speech text reader that can output any text with different voices.
+14. **Memory Cards**: Create and store memory cards using local storage.
