@@ -15,3 +15,4 @@ Projects:
 10. **Music Player**: Simple music player using the web audio API.
 11. **Infinte Scroll**: Blog with infinite scroll using the fetch API.
 12. **Typing Game**: Typing game with different difficulties.
+13. **Speech Text Reader**: Speech text reader that can output any text with different voices.
