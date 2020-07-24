@@ -20,3 +20,4 @@ Projects:
 15. **Lyrics Search**: Find the lyrics of your favorite songs.
 16. **Relaxer**: Relaxing app that helps with your breathing.
 17. **Breakout Game**: Simple mini breakout game using the Canvas API.
+18. **New Year Countdown**: Simple app that tells you how much time is left to new year.
