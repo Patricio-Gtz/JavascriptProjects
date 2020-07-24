@@ -19,3 +19,4 @@ Projects:
 14. **Memory Cards**: Create and store memory cards using local storage.
 15. **Lyrics Search**: Find the lyrics of your favorite songs.
 16. **Relaxer**: Relaxing app that helps with your breathing.
+17. **Breakout Game**: Simple mini breakout game.
