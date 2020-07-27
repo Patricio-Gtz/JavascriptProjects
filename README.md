@@ -22,3 +22,4 @@ Projects:
 17. **Breakout Game**: Simple mini breakout game using the Canvas API.
 18. **New Year Countdown**: Simple app that tells you how much time is left to new year.
 19. **Sortable List**: Sort the richiest people in the world using the Drag and Drop API.
+20. **Speak Number Guessing Game**: Speak number guessing game using the SpeechRecognition API.
